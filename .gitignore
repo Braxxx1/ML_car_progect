@@ -1,0 +1,5 @@
+__pycache__
+venv
+model\data\ga_full_scaled.csv
+model\data\ga_hits.csv
+model\data\ga_sessions.csv
